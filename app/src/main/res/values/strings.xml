@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidDz.3</string>
+    <string name="oceania">Океания</string>
+    <string name="africa">Африка</string>
+    <string name="eurasia">Евразия</string>
+    <string name="north_america">Северная Америка</string>
+    <string name="south_america">Южная Америка</string>
+    <string name="europe">Европа</string>
+</resources>
