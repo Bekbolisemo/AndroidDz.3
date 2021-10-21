@@ -4,8 +4,17 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/HP/AndroidStudioProjects/AndroidDz3/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AndroidDz3/app/src/main/res/drawable/ic_australia.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AndroidDz3/app/src/main/res/drawable/ic_azerbaijan.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AndroidDz3/app/src/main/res/drawable/ic_canada.xml" value="0.2169230769230769" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/AndroidDz3/app/src/main/res/drawable/ic_eurasia.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AndroidDz3/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AndroidDz3/app/src/main/res/drawable/ic_new_zealand.xml" value="0.2169230769230769" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/AndroidDz3/app/src/main/res/drawable/ic_north_usa.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AndroidDz3/app/src/main/res/drawable/ic_pg_3x.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AndroidDz3/app/src/main/res/drawable/ic_sd_3x.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AndroidDz3/app/src/main/res/drawable/ic_south_africa.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AndroidDz3/app/src/main/res/drawable/ic_south_america.xml" value="0.2169230769230769" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/AndroidDz3/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/AndroidDz3/app/src/main/res/layout/activity_second.xml" value="0.33" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/AndroidDz3/app/src/main/res/layout/item_recycler_view.xml" value="0.33" />
