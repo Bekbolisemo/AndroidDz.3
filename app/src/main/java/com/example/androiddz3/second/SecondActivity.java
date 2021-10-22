@@ -61,7 +61,7 @@ public class SecondActivity extends AppCompatActivity {
                     list.add(new Contry(R.drawable.ic_lithuania,getString(R.string.Lithuania),getString(R.string.Vilnius)));
                     list.add(new Contry(R.drawable.ic_uzbekistan,getString(R.string.Uzbekistan), getString(R.string.Tashkent)));
                     list.add(new Contry(R.drawable.ic_ukraine,getString(R.string.Ukraine),getString(R.string.Kiev)));
-
+                    break;
                 case 4:
                     list.add(new Contry(R.drawable.ic_canada,getString(R.string.Canada),getString(R.string.Ottawa)));
                     list.add(new Contry(R.drawable.ic_netherlands,getString(R.string.Netherlands),getString(R.string.Amsterdam)));
